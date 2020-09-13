@@ -36,3 +36,5 @@ deno test --allow-read --unstable --allow-env https://x.nest.land/lodash@0.1.0/t
   
 ```
 
+## Documentation
+[lodash docs](https://lodash.com/docs/4.17.15)
