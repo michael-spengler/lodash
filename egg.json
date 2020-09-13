@@ -1,6 +1,6 @@
 {
   "name": "lodash",
-  "description": "lodash for deno provided via https://cdn.skypack.dev/lodash-es@4.17.15",
+  "description": "lodash for deno provided via fixed version dependency https://cdn.skypack.dev/lodash-es@4.17.15",
   "stable": true,
   "repository": "https://github.com/michael-spengler/lodash",
   "files": [

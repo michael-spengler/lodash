@@ -1,4 +1,4 @@
-[![nest badge](https://nest.land/badge.svg)](https://nest.land/package/deno-lodash)
+[![nest badge](https://nest.land/badge.svg)](https://nest.land/package/lodash)
 
 # Lodash
 In comparison to https://nest.land/package/deno-lodash the module at hand uses a fixed version for the lodash dependency. See lodash.ts file.
